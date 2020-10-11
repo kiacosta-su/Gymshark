@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
-.navbar-custom{
+ .navbar-custom{
   background-color: #00e6b8; 
 }
 
@@ -14,14 +14,15 @@
 }
 
 .carousel-item {
-  height: 65vh;
-  min-height: 300px;
+  height: 95vh;
+  min-height: 150px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 .portfolio-item {
   margin-bottom: 30px;
@@ -42,9 +43,9 @@
 
 /* footer icons */
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  padding: 10px;
+  font-size: 10px;
+  width: 25px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
